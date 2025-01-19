@@ -1,3 +1,4 @@
+# MOUTUIDINE Mourchid 
 # Hadoop TP3 - Collaborative Filtering
 
 Ce projet implémente un pipeline de filtrage collaboratif distribué utilisant Hadoop. Il inclut trois jobs MapReduce qui prennent en entrée un fichier de relations utilisateur et produisent des recommandations basées sur des relations communes.
