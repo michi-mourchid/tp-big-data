@@ -31,7 +31,7 @@ Ce projet implémente un pipeline de filtrage collaboratif distribué utilisant 
 
 Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votre machine locale :
 
-- **Docker** : pour exécuter le conteneur Hadoop.
+- **Docker** : pour exécuter le conteneur Hadoop dans Docker.
 - **Java (JDK 8)** : nécessaire pour compiler les jobs Hadoop.
 - **Maven** : pour construire les projets Java.
 
